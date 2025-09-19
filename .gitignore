@@ -16,9 +16,9 @@ Listings/
 *.uvopt
 *.uvmpw.*
 
-# Misc
+# OS junk
 .DS_Store
 Thumbs.db
 
-# Optional: comment out to include
+# Optional: comment out to keep in VCS
 # DebugConfig/
