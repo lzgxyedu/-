@@ -1,6 +1,6 @@
-# 基于单片机的车灯自动控制系统（STM32F103C8T6）
+# STM32F103C8T6 Smart Headlight Control System
 
-本项目为一套基于 STM32F103C8T6 的“车灯自动控制系统”运行程序，集成光照检测（LDR）、温湿度（DHT11）、超声测距（HC‑SR04）、车速码盘计数、PWM 车灯输出与 OLED 显示，并提供按键交互与参数配置（阈值可存储于片内 Flash）。
+An embedded smart automotive headlight controller on STM32F103C8T6 integrating LDR, DHT11, HC‑SR04, PWM lighting, and OLED UI with configurable thresholds.
 
 ---
 
