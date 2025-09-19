@@ -1,0 +1,24 @@
+﻿# Keil / MDK build outputs
+Objects/
+Listings/
+*.bak
+*.tmp
+*.dep
+*.map
+*.hex
+*.axf
+*.elf
+*.lst
+
+# IDE user-specific
+*.uvguix.*
+*.uvoptx
+*.uvopt
+*.uvmpw.*
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Optional: comment out to include
+# DebugConfig/
